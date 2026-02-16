@@ -24,8 +24,6 @@ Saya terbuka untuk berkolaborasi, belajar hal baru, dan berkontribusi dalam peng
 ## 🛠️ Bidang Keahlian
 
 ### 💻 Pemrograman
-- Python  
-- Java  
 - JavaScript  
 - PHP  
 
@@ -44,7 +42,6 @@ Saya terbuka untuk berkolaborasi, belajar hal baru, dan berkontribusi dalam peng
 ### 🔧 Tools & Teknologi
 - Git & GitHub  
 - Figma  
-- Postman  
 
 ---
 
